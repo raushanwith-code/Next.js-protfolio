@@ -18,7 +18,7 @@
             "title": "Realtime Messaging Service",
             "category": "Media Tool",
             "year": "2026",
-            "description": "Aether Media is a media processing tool that allows users to batch convert, compress, resize, and rename media files (video, audio, image) quickly, securely, and easily.\n\nBuilt on the performance of Rust and the lightweight nature of Tauri. Using the power of FFmpeg in the background, it offers complex media operations with a modern interface. Your files are never uploaded to a server; all processes take place entirely locally on your own device.",
+            "description": "Real-Time Messaging Service is a full-stack web application designed to provide instant communication between users with a modern and responsive interface. Built using Express.js and Socket.IO on the backend, it leverages WebSockets to deliver real-time message updates without page reloads. The frontend is developed with React, ensuring a smooth and interactive user experience. This project supports multiple users chatting simultaneously, typing indicators, online presence detection, and message delivery confirmations. It demonstrates the integration of real-time technologies with scalable backend architecture and a clean, user-friendly frontend. The system is secure, lightweight, and ideal for showcasing full-stack development skills, particularly in building real-time applications that mimic the functionality of popular messaging platforms like WhatsApp or Messenger. By combining Node.js, Express.js, Socket.IO, and React, the project highlights proficiency in event-driven programming, WebSocket communication, and modern frontend development practices.",
             "image": "/projects/20260427093247885.jpg",
             "repo": "https://github.com/raushanwith-code?tab=repositories",
             "stack": [
@@ -33,7 +33,7 @@
             "title": "E‑Commerce Website",
             "category": "Library",
             "year": "2026",
-            "description": "Aether JS is a headless, utility-first JavaScript interaction controller designed for modern web development. It enables you to build fully accessible (a11y) UIs—like modals, tabs, and accordions—using only HTML data-aether-* attributes, without writing complex JavaScript. Perfectly suited for TailwindCSS and similar frameworks, it focuses on state management while leaving the styling entirely to you. Features include focus trapping, dynamic DOM observation, URL syncing, and theme management.",
+            "description": "E‑Commerce Platform is a modern web application built entirely with React, designed to provide users with a smooth and interactive online shopping experience. The project implements essential e‑commerce features such as product listings, category filtering, search functionality, and a dynamic shopping cart. Users can browse products, add items to their cart, adjust quantities, and proceed to checkout with a responsive and intuitive interface. The application leverages React’s component‑based architecture to ensure scalability and maintainability, while hooks and state management handle real‑time updates across the UI. The design is fully responsive, offering a seamless experience across desktop and mobile devices. This project highlights proficiency in frontend development, user interface design, and state management in React, while demonstrating the ability to build a complete e‑commerce solution that mirrors the functionality of modern online stores. It serves as a strong showcase of practical skills in building interactive, user‑friendly, and production‑ready web applications.",
             "image": "/projects/20260427093247620.jpg",
             "demo": "https://github.com/raushanwith-code?tab=repositories",
             "repo": "https://github.com/raushanwith-code?tab=repositories",
@@ -61,7 +61,7 @@
         {
             "id": "01",
             "year": "2024",
-            "description": "I first got introduced to software development in B-tech 1st Year. I learned the fundamentals and logic of programming using C.",
+            "description": "I was first introduced to software development during my first year of B.Tech, where I learned the fundamentals and programming logic using C.",
             "stack": [
                 "C"
             ]
@@ -69,7 +69,7 @@
         {
             "id": "02",
             "year": "2025",
-            "description": "I started developing static and dynamic websites by learning HTML, CSS, and js. During this period, I also learned how to use databases in my projects.",
+            "description": "I started developing both static and dynamic websites by learning the core web technologies: HTML, CSS, and JavaScript. Through these projects, I gained hands-on experience in building responsive layouts, interactive user interfaces, and functional web pages. During this period, I also explored how to integrate and use databases in my applications, which helped me understand the fundamentals of data storage, retrieval, and management. This phase of learning gave me a strong foundation in frontend development and introduced me to the importance of connecting client-side applications with backend systems to create complete, real-world web solutions.",
             "stack": [
                 "HTML",
                 "CSS",
@@ -80,7 +80,7 @@
         {
             "id": "03",
             "year": "2025",
-            "description": "It was my 2nd Year. I significantly improved my UI development skills with CSS and continued working with Backend technology.",
+            "description": "In my second year of B.Tech, I significantly enhanced my skills in user interface development by mastering advanced concepts of CSS, including responsive design, animations, and layout techniques. Alongside frontend improvements, I continued to strengthen my knowledge of backend technologies, working with Node.js and Express.js to build dynamic and scalable applications. This phase of learning helped me bridge the gap between frontend and backend development, giving me a deeper understanding of how complete web applications function. By combining improved UI design with backend logic, I was able to create projects that were not only visually appealing but also robust and efficient, laying the foundation for my full-stack development journey.",
             "stack": [
                 "HTML",
                 "CSS",
@@ -93,19 +93,20 @@
         {
             "id": "04",
             "year": "2026",
-            "description": "last time  of 2nd year, I turned to modern technologies like React, Node.js, Tailwind CSS, and MongoDB. During this period, I developed many websites and applications. Additionally, I started writing various tools in Next.js for my personal use.",
+            "description": "By the end of my second year, I transitioned to modern web technologies such as React, Node.js, Tailwind CSS, and MongoDB. During this period, I developed multiple websites and applications that combined responsive user interfaces with dynamic backend functionality. Working with React allowed me to build interactive and scalable frontends, while Node.js and MongoDB gave me the ability to design efficient server-side logic and manage data effectively. Tailwind CSS helped me create clean, modern, and responsive designs with ease. Additionally, I began experimenting with Next.js, writing various personal tools and utilities to streamline my workflow and enhance productivity. This phase marked a significant step in my journey toward full-stack development, as I gained practical experience in building complete applications using industry-standard technologies and frameworks.",
             "stack": [
+                "Next.js",
                 "React",
                 "Node.js",
                 "TailwindCSS",
-                "MongoDB",
-                "Next.js"
+                "MongoDB"
+                
             ]
         },
         {
             "id": "05",
             "year": "2026",
-            "description": "I started working as an intern at BrightPathHorizon, where I focused mainly on Next.js. In addition, I develop web projects using Next.js in my free time and build various personal projects utilizing technologies like ML.",
+            "description": "I started working as an intern at BrightPath Horizon, where I primarily focused on building and improving projects using Next.js. This internship gave me practical exposure to modern frontend development practices and helped me strengthen my skills in creating scalable and efficient web applications. Alongside my internship, I continued to develop personal projects in my free time, experimenting with Next.js to build tools and utilities tailored for my own use. During this period, I also explored integrating advanced technologies such as Machine Learning into my projects, which allowed me to expand my knowledge beyond traditional web development. This phase not only enhanced my expertise in Next.js but also demonstrated my ability to combine frontend frameworks with emerging technologies to create innovative solutions.",
             "stack": [
                 "Ml",
                 "Next.js",
