@@ -1,93 +1,59 @@
-<a href="README.md">
-  <img src="https://img.shields.io/badge/Language-English-blue?style=flat-square&logo=google-translate&logoColor=white" alt="English">
-</a>
-<a href="README-TR.md">
-  <img src="https://img.shields.io/badge/Dil-Türkçe-red?style=flat-square&logo=google-translate&logoColor=white" alt="Türkçe">
-</a>
+ 🌟 Raushan Kumar — Next.js Portfolio
 
-  <br />
-  <br />
+Welcome to my personal portfolio built with **Next.js + TailwindCSS** ⚡.  
+This project showcases my skills, projects, and journey as a developer 👨‍💻.
 
-<div align="center">
-  <img src="public/logo.png" width="120" height="120" />
-  <br />
-  <br />
+---
 
-  <p>
-     A personal portfolio website inspired by the design quality of Awwwards.
-  </p>
+## ✨ Features
+- 🎨 Modern UI with smooth animations
+- 🌐 Multi-language support (EN / TR)
+- 📱 Fully responsive design
+- ⚡ Optimized performance with Next.js
+- 🔒 MIT Licensed (Open Source)
 
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-purple?style=for-the-badge&logo=framer)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
+---
 
-  <p>
-    <a href="#features">Features</a> •
-    <a href="#tech">Technologies</a> •
-    <a href="#installation">Installation</a> •
-    <a href="#license">License</a>
-  </p>
+## 🛠️ Tech Stack
+- ⚛️ React / Next.js
+- 🎨 TailwindCSS
+- 🔧 TypeScript
+- 🗄️ Node.js (Backend APIs)
+- 🛢️ MongoDB / Prisma
 
-  <br />
-  <br />
-</div>
+---
 
-## 📋 About
+---
 
-**Kintarowwards** is an open-source, highly interactive personal portfolio template inspired by top-tier Awwwards-winning websites. It features smooth scrolling, physics-based micro-interactions, dynamic theme switching, and a fully multilingual system designed to deliver a premium user experience. Every detail is crafted to leave a lasting impression while maintaining high performance and clean code standards.
+## 📂 Project Structure
+├── app/              # Next.js App Router
+├── components/       # Reusable UI Components
+├── public/           # Images & Assets
+├── hooks/            # Custom React Hooks
+├── lib/              # Utilities
+└── README.md
 
-## <a id="features"></a> ✨ Features
+Code
 
-- **Advanced Animations**: Fluid transitions and micro-interactions with Framer Motion and Motion libraries.
-- **Physics-Based Components**: Dynamic and physics-compliant UI elements like "Hanging Profile" that respond to mouse movements.
-- **Smooth Scroll**: A modern and high-quality scrolling experience with Lenis integration.
-- **Dynamic Theme Support**: Optimized Dark and Light mode transitions with next-themes.
-- **Multi-language Support**: Extensible language options for global users.
-- **Responsive Design**: A mobile-first interface that looks perfect on all devices.
+---
 
-## <a id="technologies"></a> 🛠️ Technologies
+## 🚀 Deployment
+This portfolio is live on **Vercel** 🌍.  
+👉 [View Demo](https://nextjs.org) *(replace with your Vercel link)*
 
-- **Next.js**: The core React framework used for routing, server-side rendering, and performance optimization.
-- **Tailwind CSS**: Utility-first CSS framework for rapid and responsive UI styling.
-- **TypeScript**: Ensures type safety and provides a superior developer experience with clean architecture.
-- **Framer Motion**: Powers the complex, physics-based UI animations, transitions, and gesture interactions.
-- **Shadcn/UI**: Provides accessible, beautifully designed, and customizable core UI components.
-- **Lucide React**: A clean and consistent icon library used for UI navigation and actions.
-- **Lenis**: Delivers a silky-smooth, native-feeling scroll experience across all devices.
+---
 
-## <a id="installation"></a> 🚀 Installation
+## 📬 Contact
+- 💼 LinkedIn: [Raushan Kumar](https://linkedin.com/in/raushanwith-code)
+- 🐙 GitHub: [@raushanwith-code](https://github.com/raushanwith-code)
+- 📧 Email: raushan@example.com
 
-Follow the steps below to run the project in your local environment:
+---
 
-1. **Clone the repository:**
+## 📜 License
+This project is licensed under the **MIT License**.  
+Feel free to use and modify, but please give credit 🙏.
 
-   ```bash
-   git clone https://github.com/xkintaro/kintarowwwards.git
-   cd kintarowwwards
-   ```
+---
 
-2. **Install dependencies:**
-
-   ```bash
-   npm install
-   ```
-
-3. **Start the Development Server:**
-
-   ```bash
-   npm run dev
-   ```
-
-You can view the project by visiting [http://localhost:3000](http://localhost:3000) in your browser.
-
-## 📄 License <a id="license"></a>
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-#
-
-<p align="center">
-  <sub>❤️ Developed by "Mustafa TAŞAL" (kintaro)</sub>
-</p>
+⭐ **If you like this project, don’t forget to star the repo!**
