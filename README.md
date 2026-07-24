@@ -1,4 +1,4 @@
-# 🌟 Raushan Kumar — Next.js Portfolio
+ 🌟 Raushan Kumar — Next.js Portfolio
 
 Welcome to my personal portfolio built with **Next.js + TailwindCSS** ⚡.  
 This project showcases my skills, projects, and journey as a developer 👨‍💻.
@@ -23,9 +23,6 @@ This project showcases my skills, projects, and journey as a developer 👨‍�
 
 ---
 
-## 📸 Screenshots
-![Portfolio Screenshot](public/hero-slider/raushan.jpg)
-
 ---
 
 ## 📂 Project Structure
@@ -37,3 +34,26 @@ This project showcases my skills, projects, and journey as a developer 👨‍�
 └── README.md
 
 Code
+
+---
+
+## 🚀 Deployment
+This portfolio is live on **Vercel** 🌍.  
+👉 [View Demo](https://nextjs.org) *(replace with your Vercel link)*
+
+---
+
+## 📬 Contact
+- 💼 LinkedIn: [Raushan Kumar](https://linkedin.com/in/raushanwith-code)
+- 🐙 GitHub: [@raushanwith-code](https://github.com/raushanwith-code)
+- 📧 Email: raushan@example.com
+
+---
+
+## 📜 License
+This project is licensed under the **MIT License**.  
+Feel free to use and modify, but please give credit 🙏.
+
+---
+
+⭐ **If you like this project, don’t forget to star the repo!**
