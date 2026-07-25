@@ -42,7 +42,7 @@ This portfolio is live on **Vercel** 🌍
 ---
 
 ## 📬 Contact
-- 💼 LinkedIn: [Raushan Kumar](https://linkedin.com/in/raushanwith-code)
+- 💼 LinkedIn: [Raushan Kumar](https://linkedin.com/in/raushan-kumar-952987339 )
 - 🐙 GitHub: [@raushanwith-code](https://github.com/raushanwith-code)
 - 📧 Email: imraushan8@gmail.com
 
