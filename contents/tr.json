@@ -64,7 +64,7 @@
             "year": "2022",
             "description": "Yazılımla ilk kez lisede tanıştım. Nesne tabanlı programlama dersinde C# kullanarak programlamanın temellerini ve mantığını öğrendim.",
             "stack": [
-                "C#"
+                "C"
             ]
         },
         {
@@ -105,7 +105,7 @@
             "year": "2026",
             "description": "PostAjans'ta stajyer olarak çalışmaya başladım ve burada ağırlıklı olarak Laravel üzerine yoğunlaştım. Bunun yanında boş zamanlarımda Next.js ile web projeleri geliştiriyor; Tauri, FFmpeg gibi teknolojileri de kullanarak çeşitli kişisel projeler üretiyorum.",
             "stack": [
-                "Laravel",
+                "Express.js",
                 "Next.js",
                 "PostgreSQL"
             ]
